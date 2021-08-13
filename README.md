@@ -8,13 +8,12 @@ Quando integramos o Python com a Web temos 2 objetivos:
 Dependendo do seu objetivo, podem existir outras formas de puxar informações de sites diferentes, como APIs, Bibliotecas prontas, etc. Mas o Selenium vai ser sempre uma opção para a gente e por isso é muito bom ter essa carta na manga.
 
 ## Projeto 1
-1) Automação de navegação de um site
+1) Automação de navegação de um site (abrir uma aba no navegador e pesquisar por um site).
 
 ## Projeto 2
-Imagine que você trabalhe no Mercado Financeiro e tem que todo dia/semana baixar uma planilha com as cotações do dólar
-Usaremos o site investing.com para baixar esses dados.
+Imagine que você trabalhe no Mercado Financeiro e tem que todo dia/semana baixar uma planilha com as cotações do dólar. <br>
+Usaremos o site investing.com para baixar esses dados. <br>
 O link onde ficam esses dados é: https://br.investing.com/currencies/usd-brl-historical-data.
-Escolhemos o site investing.com porque ele é cheio de coisinha chata que vai obrigar a gente a fazer um código completo.
 Crie uma conta no site antes de começar, é gratuito.
 
 ## Pré-requisitos 
